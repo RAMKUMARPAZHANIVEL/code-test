@@ -1,0 +1,730 @@
+[
+    {
+      "modalName": "product catalog",
+      "modal_information": "Qui incididunt ad incididunt mollit ut aliquip ipsum id culpa id aute aute ad. Aliqua proident culpa officia adipisicing. Lorem laboris eiusmod minim velit est nostrud exercitation in officia ea. Sit sint dolor nulla elit quis Lorem enim mollit. Proident ad amet sit est deserunt.",
+      "modal_benefits": "Enim culpa magna reprehenderit nisi laboris sit aliqua amet eiusmod deserunt mollit laboris esse. Nisi incididunt aute incididunt irure nisi sunt tempor proident. Id aute culpa laboris ipsum pariatur ipsum ipsum aute ex occaecat deserunt labore adipisicing.",
+      "frontend_tool": [
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "vue.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "html5",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "flutter",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "angular",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "open UI5",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ],
+      "UI_Screens": [
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "signup_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_list",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_details",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        }
+      ],
+      "capabilities": [
+        {
+          "capability_name": "user management",
+          "features": "Nulla ut officia est enim id culpa eu nisi. Pariatur cillum officia ad aliquip. Excepteur sit occaecat velit cupidatat aute. Do esse enim aute voluptate ipsum enim amet velit. Incididunt duis exercitation ex labore labore in laborum sunt cupidatat reprehenderit minim minim Lorem occaecat. Nulla qui dolor labore cupidatat pariatur anim nisi consectetur deserunt eiusmod reprehenderit adipisicing. Consectetur pariatur ad id minim dolor laboris nostrud eu ut."
+        },
+        {
+          "capability_name": "authentication & authorization[OAuth]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[Spring]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[auth0]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "authentication & authorization[Basic]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "hazelcast",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "redis",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "docker copmose",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ]
+    },
+    {
+      "modalName": "online teacher",
+      "modal_information": "Qui incididunt ad incididunt mollit ut aliquip ipsum id culpa id aute aute ad. Aliqua proident culpa officia adipisicing. Lorem laboris eiusmod minim velit est nostrud exercitation in officia ea. Sit sint dolor nulla elit quis Lorem enim mollit. Proident ad amet sit est deserunt.",
+      "modal_benefits": "Enim culpa magna reprehenderit nisi laboris sit aliqua amet eiusmod deserunt mollit laboris esse. Nisi incididunt aute incididunt irure nisi sunt tempor proident. Id aute culpa laboris ipsum pariatur ipsum ipsum aute ex occaecat deserunt labore adipisicing.",
+      "frontend_tool": [
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "vue.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "html5",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "flutter",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "angular",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "open UI5",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ],
+      "UI_Screens": [
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "signup_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_list",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_details",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        }
+      ],
+      "capabilities": [
+        {
+          "capability_name": "user management",
+          "features": "Nulla ut officia est enim id culpa eu nisi. Pariatur cillum officia ad aliquip. Excepteur sit occaecat velit cupidatat aute. Do esse enim aute voluptate ipsum enim amet velit. Incididunt duis exercitation ex labore labore in laborum sunt cupidatat reprehenderit minim minim Lorem occaecat. Nulla qui dolor labore cupidatat pariatur anim nisi consectetur deserunt eiusmod reprehenderit adipisicing. Consectetur pariatur ad id minim dolor laboris nostrud eu ut."
+        },
+        {
+          "capability_name": "authentication & authorization[OAuth]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[Spring]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[auth0]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "authentication & authorization[Basic]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "hazelcast",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "redis",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "docker copmose",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ]
+    },
+    {
+      "modalName": "user management",
+      "modal_information": "Qui incididunt ad incididunt mollit ut aliquip ipsum id culpa id aute aute ad. Aliqua proident culpa officia adipisicing. Lorem laboris eiusmod minim velit est nostrud exercitation in officia ea. Sit sint dolor nulla elit quis Lorem enim mollit. Proident ad amet sit est deserunt.",
+      "modal_benefits": "Enim culpa magna reprehenderit nisi laboris sit aliqua amet eiusmod deserunt mollit laboris esse. Nisi incididunt aute incididunt irure nisi sunt tempor proident. Id aute culpa laboris ipsum pariatur ipsum ipsum aute ex occaecat deserunt labore adipisicing.",
+      "frontend_tool": [
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "vue.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "html5",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "flutter",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "angular",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "open UI5",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ],
+      "UI_Screens": [
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "signup_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_list",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_details",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        }
+      ],
+      "capabilities": [
+        {
+          "capability_name": "user management",
+          "features": "Nulla ut officia est enim id culpa eu nisi. Pariatur cillum officia ad aliquip. Excepteur sit occaecat velit cupidatat aute. Do esse enim aute voluptate ipsum enim amet velit. Incididunt duis exercitation ex labore labore in laborum sunt cupidatat reprehenderit minim minim Lorem occaecat. Nulla qui dolor labore cupidatat pariatur anim nisi consectetur deserunt eiusmod reprehenderit adipisicing. Consectetur pariatur ad id minim dolor laboris nostrud eu ut."
+        },
+        {
+          "capability_name": "authentication & authorization[OAuth]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[Spring]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[auth0]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "authentication & authorization[Basic]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "hazelcast",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "redis",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "docker copmose",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ]
+    },
+    {
+      "modalName": "product catalog",
+      "modal_information": "Qui incididunt ad incididunt mollit ut aliquip ipsum id culpa id aute aute ad. Aliqua proident culpa officia adipisicing. Lorem laboris eiusmod minim velit est nostrud exercitation in officia ea. Sit sint dolor nulla elit quis Lorem enim mollit. Proident ad amet sit est deserunt.",
+      "modal_benefits": "Enim culpa magna reprehenderit nisi laboris sit aliqua amet eiusmod deserunt mollit laboris esse. Nisi incididunt aute incididunt irure nisi sunt tempor proident. Id aute culpa laboris ipsum pariatur ipsum ipsum aute ex occaecat deserunt labore adipisicing.",
+      "frontend_tool": [
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "vue.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "html5",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "flutter",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "angular",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "open UI5",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ],
+      "UI_Screens": [
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "signup_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_list",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_details",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        }
+      ],
+      "capabilities": [
+        {
+          "capability_name": "user management",
+          "features": "Nulla ut officia est enim id culpa eu nisi. Pariatur cillum officia ad aliquip. Excepteur sit occaecat velit cupidatat aute. Do esse enim aute voluptate ipsum enim amet velit. Incididunt duis exercitation ex labore labore in laborum sunt cupidatat reprehenderit minim minim Lorem occaecat. Nulla qui dolor labore cupidatat pariatur anim nisi consectetur deserunt eiusmod reprehenderit adipisicing. Consectetur pariatur ad id minim dolor laboris nostrud eu ut."
+        },
+        {
+          "capability_name": "authentication & authorization[OAuth]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[Spring]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[auth0]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "authentication & authorization[Basic]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "hazelcast",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "redis",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "docker copmose",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ]
+    },
+    {
+      "modalName": "customer accounts",
+      "modal_information": "Qui incididunt ad incididunt mollit ut aliquip ipsum id culpa id aute aute ad. Aliqua proident culpa officia adipisicing. Lorem laboris eiusmod minim velit est nostrud exercitation in officia ea. Sit sint dolor nulla elit quis Lorem enim mollit. Proident ad amet sit est deserunt.",
+      "modal_benefits": "Enim culpa magna reprehenderit nisi laboris sit aliqua amet eiusmod deserunt mollit laboris esse. Nisi incididunt aute incididunt irure nisi sunt tempor proident. Id aute culpa laboris ipsum pariatur ipsum ipsum aute ex occaecat deserunt labore adipisicing.",
+      "frontend_tool": [
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "vue.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "html5",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "flutter",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "angular",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "open UI5",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ],
+      "UI_Screens": [
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "signup_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_list",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_details",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        }
+      ],
+      "capabilities": [
+        {
+          "capability_name": "user management",
+          "features": "Nulla ut officia est enim id culpa eu nisi. Pariatur cillum officia ad aliquip. Excepteur sit occaecat velit cupidatat aute. Do esse enim aute voluptate ipsum enim amet velit. Incididunt duis exercitation ex labore labore in laborum sunt cupidatat reprehenderit minim minim Lorem occaecat. Nulla qui dolor labore cupidatat pariatur anim nisi consectetur deserunt eiusmod reprehenderit adipisicing. Consectetur pariatur ad id minim dolor laboris nostrud eu ut."
+        },
+        {
+          "capability_name": "authentication & authorization[OAuth]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[Spring]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[auth0]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "authentication & authorization[Basic]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "hazelcast",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "redis",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "docker copmose",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ]
+    },
+    {
+      "modalName": "customers and payments",
+      "modal_information": "Qui incididunt ad incididunt mollit ut aliquip ipsum id culpa id aute aute ad. Aliqua proident culpa officia adipisicing. Lorem laboris eiusmod minim velit est nostrud exercitation in officia ea. Sit sint dolor nulla elit quis Lorem enim mollit. Proident ad amet sit est deserunt.",
+      "modal_benefits": "Enim culpa magna reprehenderit nisi laboris sit aliqua amet eiusmod deserunt mollit laboris esse. Nisi incididunt aute incididunt irure nisi sunt tempor proident. Id aute culpa laboris ipsum pariatur ipsum ipsum aute ex occaecat deserunt labore adipisicing.",
+      "frontend_tool": [
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "vue.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "html5",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "flutter",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "angular",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "open UI5",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ],
+      "UI_Screens": [
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "signup_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_list",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_details",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        }
+      ],
+      "capabilities": [
+        {
+          "capability_name": "user management",
+          "features": "Nulla ut officia est enim id culpa eu nisi. Pariatur cillum officia ad aliquip. Excepteur sit occaecat velit cupidatat aute. Do esse enim aute voluptate ipsum enim amet velit. Incididunt duis exercitation ex labore labore in laborum sunt cupidatat reprehenderit minim minim Lorem occaecat. Nulla qui dolor labore cupidatat pariatur anim nisi consectetur deserunt eiusmod reprehenderit adipisicing. Consectetur pariatur ad id minim dolor laboris nostrud eu ut."
+        },
+        {
+          "capability_name": "authentication & authorization[OAuth]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[Spring]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[auth0]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "authentication & authorization[Basic]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "hazelcast",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "redis",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "docker copmose",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ]
+    },
+    {
+      "modalName": "traveler trips",
+      "modal_information": "Qui incididunt ad incididunt mollit ut aliquip ipsum id culpa id aute aute ad. Aliqua proident culpa officia adipisicing. Lorem laboris eiusmod minim velit est nostrud exercitation in officia ea. Sit sint dolor nulla elit quis Lorem enim mollit. Proident ad amet sit est deserunt.",
+      "modal_benefits": "Enim culpa magna reprehenderit nisi laboris sit aliqua amet eiusmod deserunt mollit laboris esse. Nisi incididunt aute incididunt irure nisi sunt tempor proident. Id aute culpa laboris ipsum pariatur ipsum ipsum aute ex occaecat deserunt labore adipisicing.",
+      "frontend_tool": [
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "vue.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "react.js",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "html5",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "tech_stack_name": "flutter",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "angular",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "tech_stack_name": "open UI5",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        }
+      ],
+      "UI_Screens": [
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "signup_page",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_list",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "product_details",
+          "respective_code": {}
+        },
+        {
+          "screen_name": "login_page",
+          "respective_code": {}
+        }
+      ],
+      "capabilities": [
+        {
+          "capability_name": "user management",
+          "features": "Nulla ut officia est enim id culpa eu nisi. Pariatur cillum officia ad aliquip. Excepteur sit occaecat velit cupidatat aute. Do esse enim aute voluptate ipsum enim amet velit. Incididunt duis exercitation ex labore labore in laborum sunt cupidatat reprehenderit minim minim Lorem occaecat. Nulla qui dolor labore cupidatat pariatur anim nisi consectetur deserunt eiusmod reprehenderit adipisicing. Consectetur pariatur ad id minim dolor laboris nostrud eu ut."
+        },
+        {
+          "capability_name": "authentication & authorization[OAuth]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[Spring]",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "authentication & authorization[auth0]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "authentication & authorization[Basic]",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "hazelcast",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "capability_name": "redis",
+          "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+        },
+        {
+          "capability_name": "docker copmose",
+          "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+        },
+        {
+          "modalName": "student assignment",
+          "modal_information": "Qui incididunt ad incididunt mollit ut aliquip ipsum id culpa id aute aute ad. Aliqua proident culpa officia adipisicing. Lorem laboris eiusmod minim velit est nostrud exercitation in officia ea. Sit sint dolor nulla elit quis Lorem enim mollit. Proident ad amet sit est deserunt.",
+          "modal_benefits": "Enim culpa magna reprehenderit nisi laboris sit aliqua amet eiusmod deserunt mollit laboris esse. Nisi incididunt aute incididunt irure nisi sunt tempor proident. Id aute culpa laboris ipsum pariatur ipsum ipsum aute ex occaecat deserunt labore adipisicing.",
+          "frontend_tool": [
+            {
+              "tech_stack_name": "react.js",
+              "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+            },
+            {
+              "tech_stack_name": "vue.js",
+              "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+            },
+            {
+              "tech_stack_name": "react.js",
+              "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+            },
+            {
+              "tech_stack_name": "html5",
+              "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+            },
+            {
+              "tech_stack_name": "flutter",
+              "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+            },
+            {
+              "tech_stack_name": "angular",
+              "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+            },
+            {
+              "tech_stack_name": "open UI5",
+              "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+            }
+          ],
+          "UI_Screens": [
+            {
+              "screen_name": "login_page",
+              "respective_code": {}
+            },
+            {
+              "screen_name": "signup_page",
+              "respective_code": {}
+            },
+            {
+              "screen_name": "product_list",
+              "respective_code": {}
+            },
+            {
+              "screen_name": "product_details",
+              "respective_code": {}
+            },
+            {
+              "screen_name": "login_page",
+              "respective_code": {}
+            }
+          ],
+          "capabilities": [
+            {
+              "capability_name": "user management",
+              "features": "Nulla ut officia est enim id culpa eu nisi. Pariatur cillum officia ad aliquip. Excepteur sit occaecat velit cupidatat aute. Do esse enim aute voluptate ipsum enim amet velit. Incididunt duis exercitation ex labore labore in laborum sunt cupidatat reprehenderit minim minim Lorem occaecat. Nulla qui dolor labore cupidatat pariatur anim nisi consectetur deserunt eiusmod reprehenderit adipisicing. Consectetur pariatur ad id minim dolor laboris nostrud eu ut."
+            },
+            {
+              "capability_name": "authentication & authorization[OAuth]",
+              "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+            },
+            {
+              "capability_name": "authentication & authorization[Spring]",
+              "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+            },
+            {
+              "capability_name": "authentication & authorization[auth0]",
+              "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+            },
+            {
+              "capability_name": "authentication & authorization[Basic]",
+              "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+            },
+            {
+              "capability_name": "hazelcast",
+              "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+            },
+            {
+              "capability_name": "redis",
+              "features": "Nulla esse aute amet commodo do incididunt dolore magna cillum officia in. Eiusmod cillum enim nostrud ipsum sunt pariatur aliquip non cillum aute laboris duis anim commodo. Eu culpa sint irure sint. Nisi est Lorem consectetur ut anim amet consectetur. Consectetur consectetur consectetur deserunt mollit. Adipisicing quis exercitation quis sunt eu. Anim nisi id deserunt consectetur consectetur sit ex sunt aliqua dolor esse laboris."
+            },
+            {
+              "capability_name": "docker copmose",
+              "features": "Officia ex excepteur labore enim. Sunt mollit ea commodo adipisicing nostrud dolore labore aliquip. Velit duis occaecat exercitation sit nostrud elit consequat nostrud. Commodo ullamco proident laborum duis."
+            }
+          ]
+        }
+      ]
+    }
+  ]
