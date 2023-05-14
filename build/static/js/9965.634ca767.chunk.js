@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfigma_react_boilerplate=self.webpackChunkfigma_react_boilerplate||[]).push([[9965],{9965:function(e,t,a){a.r(t);a(2791);var l=a(9434),r=a(8595),c=a(184);t.default=function(){var e=(0,l.v9)((function(e){var t;return null===(t=e.fullstack.fullstack_details)||void 0===t?void 0:t.modelType}));return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)(r.Z,{path:"/fetechstackone",selected_model:e})})}}}]);
+//# sourceMappingURL=9965.634ca767.chunk.js.map

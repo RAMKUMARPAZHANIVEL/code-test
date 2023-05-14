@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfigma_react_boilerplate=self.webpackChunkfigma_react_boilerplate||[]).push([[4907],{4907:function(e,t,a){a.r(t);a(2791);var l=a(9434),n=a(4099),r=a(184);t.default=function(){var e=(0,l.v9)((function(e){var t;return null===(t=e.frontend.frontend_details)||void 0===t?void 0:t.FeTemplate}));return console.log(e,"fe template"),(0,r.jsx)(r.Fragment,{children:(0,r.jsx)(n.Z,{path:"/capabilities",selected_feTemplates:e})})}}}]);
+//# sourceMappingURL=4907.22a7efaf.chunk.js.map
