@@ -11,5 +11,4 @@ services:
     volumes:
       - ./frontend/build:/var/www/html
       - ./deploy/default.conf:/etc/nginx/sites-available/default
-    depends_on:
-      - server
+    
